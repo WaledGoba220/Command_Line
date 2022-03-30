@@ -70,8 +70,33 @@ Example :
 
 ==➽  cls
 
-✓  cls .  ➙  cls == Clear delete all
+✓  cls   ➙  cls == Clear delete all
 
                                                                     ====================
+                                                                    
+
+==➽  dir
+
+✓  dir .  ➙  Show folders Paths
+                                                                    ====================
+                                                                    
+==➽  mkdir
+
+✓  mkdir D:\sys .  ➙ create file named sys
+
+                                                                     ====================
+                                                                     
+                                                                     
+==➽  cd
+ 
+✓  cd  D: .  ➙ Path is D > go to the Path
+
+==➽ cd ..
+
+✓  cd ..  ➙ back one on path
+                                         
+                                                                     ====================
+                                                                      
+                                                               
                                                                     
 
