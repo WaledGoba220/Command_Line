@@ -40,7 +40,7 @@ Example :
                                                                  
                                                                  
      
-==  ipconfig 
+==➽  ipconfig 
 
 ✓  Get Ip Of device and Subnet mask (Information of IP)
 
