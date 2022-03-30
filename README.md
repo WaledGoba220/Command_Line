@@ -23,6 +23,7 @@ Why to Use ?
 
 
 Example : 
+
 ☑  IP Config 
 
 ☑ Move all Text in Subdirectories 
@@ -37,5 +38,12 @@ Example :
 
                                                                  ====================
                                                                  
+                                                                 
+     
+==  ipconfig 
+
+✓  Get Ip Of device and Subnet mask (Information of IP)
+
+     
 
 
