@@ -44,7 +44,8 @@ Example :
 
 ✓  Get Ip Of device and Subnet mask (Information of IP)
 
-     
+                                                                  ====================
+                                                                                                                             
      
 ==➽ Change Color
 ✓  color -help
