@@ -51,7 +51,15 @@ Example :
 
 ✓  color -help
 
-                                                                    ====================
+                                                                   ====================
                                                                     
+ 
+==➽   Change Command title
+
+✓  title sys  ➙  change cmd title to sys
+
+                                                                   ====================
+                                                                   
+
                                                                     
                                                                     
