@@ -44,6 +44,8 @@ Example :
 
 ✓  Get Ip Of device and Subnet mask (Information of IP)
 
+✓ ping	➙ pings the network
+
                                                                   ====================
                                                                                                                              
      
@@ -115,7 +117,8 @@ rmdir / rd	➙ delete directory
 ==➽ rename
 
 ✓ rename sys doc ➙  تغير اسم الملف 
-                                                                    
+
+✓ replace	 ➙ replace files                          
                                                                       ====================
                                                                       
        
