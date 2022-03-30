@@ -195,3 +195,42 @@ rmdir / rd	➙ delete directory
                                                                 ====================
                                                                 
                                                                
+C:\> type file.txt 
+
+
+### Create files:
+
+C:\> echo "line from file1" > file1.txt
+C:\> echo "line from file2" > file2.txt
+
+
+### Concatenate files:
+
+C:\> type file1.txt file2.txt > result.txt
+C:\> type result.txt
+line from file1
+line from file2
+
+                                                               
+                                                              ====================
+                                                              
+                                                              
+ ### Grep the output of a netstat command for a specific port:
+
+#### Windows CMD
+C:\> netstat -na | findstr /c:"PORT"
+
+####  Windows PowerShell
+PS C:\> netstat -na | Select-String "PORT"                                                            
+                                                              
+
+### Grep a file for a pattern that matches a regular expression (case insensitive):
+
+#### Windows CMD
+C:\> findstr /i /r /c:"^SEARCH.*STRING$" file.txt
+
+#### Windows PowerShell
+PS C:\> Select-String "^SEARCH.*STRING$" file.txt
+
+                                                              ====================
+                                                              
