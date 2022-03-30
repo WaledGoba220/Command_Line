@@ -61,5 +61,17 @@ Example :
                                                                    ====================
                                                                    
 
+   ==➽  explorer
+   
+✓  explorer .  ➙  go to the file location
+                                                     
+                                                                    ====================
                                                                     
+
+==➽  cls
+
+✓  cls .  ➙  cls == Clear delete all
+
+                                                                    ====================
                                                                     
+
