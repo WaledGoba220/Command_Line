@@ -138,3 +138,49 @@ rmdir / rd	➙ delete directory
 
                                                                   ====================
                                                                   
+
+✓ ftp	➙ transfer files to a FTP server
+
+✓ ftype ➙	display file type and mapping
+
+✓ tftp ➙ transfer files to a TFTP server
+
+✓ tracert ➙	trace routes similar to patchping
+
+✓ comp ➙ compare file contents
+
+✓ compact ➙	display/change file compression
+
+✓ expand ➙extract files
+
+✓ fc ➙copare files and display the differences
+
+✓ tree ➙	display folder structure graphically
+
+✓ format ➙	format volumes
+
+✓ label ➙	change volume name
+
+✓ mode ➙ configure interfaces/devices
+
+✓ mountvol ➙ assign/delete drive mountpoints
+
+✓ verify ➙ monitoring whether volumes are written correctly
+
+✓ vol	show ➙ volume description and serial numbers of the HDDs
+
+✓ hostname ➙	display host name
+
+✓ shutdown ➙	shutdown the computer
+
+✓ sort ➙	sort the screen output
+
+✓ start ➙	start an own window to execute a program or command
+
+✓ call ➙	calls a batch file from another one
+
+✓ pause ➙	pauses the execution of a batch file and shows a message
+
+                                                                ====================
+                                                                
+                                                               
