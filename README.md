@@ -48,5 +48,10 @@ Example :
                                                                                                                              
      
 ==➽ Change Color
+
 ✓  color -help
 
+                                                                    ====================
+                                                                    
+                                                                    
+                                                                    
