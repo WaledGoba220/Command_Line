@@ -24,10 +24,18 @@ Why to Use ?
 
 Example : 
 ☑  IP Config 
+
 ☑ Move all Text in Subdirectories 
+
 ☑ Delete Files with Extensions 
+
 ☑ Change Settings Quickly 
+
 ☑ Edit System Files Quickly
+
 ☑ Create many Directories At Once 
+
+                                                                 ====================
+                                                                 
 
 
