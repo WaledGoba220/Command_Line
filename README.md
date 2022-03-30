@@ -106,6 +106,8 @@ Move sys ➙ Delete
 
 Move sys system ➙ Rename 
 
+rmdir / rd	➙ delete directory
+
 ** طيب لو انا عاوز اغيرو لاسم والاسم دا موجود بالفعل --- هنا بقي هيعمل نقل للملف  لان بالتاكيد هو موجود** 
 
 
@@ -115,4 +117,6 @@ Move sys system ➙ Rename
 ✓ rename sys doc ➙  تغير اسم الملف 
                                                                     
                                                                       ====================
+                                                                      
+       
                                                                       
