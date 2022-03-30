@@ -234,3 +234,14 @@ PS C:\> Select-String "^SEARCH.*STRING$" file.txt
 
                                                               ====================
                                                               
+## DOS Commands Help
+
+✓ You can display all available commands with the help command
+
+In the 1960s, using only computer terminals, this was the only way to interact with computers.
+
+In the 1970s an 1980s, command line input was commonly used by Unix systems and PC systems like MS-DOS and Apple DOS.
+
+Today, with graphical user interfaces (GUI), most users never use command-line interfaces (CLI).
+
+However, CLI is still used by software developers and system administrators to configure computers, install software, and access features that are not available in the graphical interface.
