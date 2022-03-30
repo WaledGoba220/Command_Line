@@ -21,3 +21,13 @@ Why to Use ?
 -	Commands is Commands Nothing Change
 -	Increase Writing Speed 
 
+
+Example : 
+☑  IP Config 
+☑ Move all Text in Subdirectories 
+☑ Delete Files with Extensions 
+☑ Change Settings Quickly 
+☑ Edit System Files Quickly
+☑ Create many Directories At Once 
+
+
