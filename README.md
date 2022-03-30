@@ -118,8 +118,23 @@ rmdir / rd	➙ delete directory
 
 ✓ rename sys doc ➙  تغير اسم الملف 
 
-✓ replace	 ➙ replace files                          
+✓ replace	 ➙ replace files  
+
                                                                       ====================
                                                                       
-       
-                                                                      
+✓ echo ➙	text output
+
+✓ date ➙	show/set date
+
+✓ exit ➙	exits the command prompt or a batch file
+
+✓ time ➙	display/edit the system time
+
+✓ timeout ➙	wait any time
+
+✓ type ➙	display content of text files
+
+✓ copy / xcopy ➙	copy files
+
+                                                                  ====================
+                                                                  
